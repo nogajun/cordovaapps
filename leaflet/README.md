@@ -1,4 +1,4 @@
-# leaflet.js with Apache Cordova app
+# leaflet.js with Apache Cordova
 
 ## build
 
