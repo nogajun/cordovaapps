@@ -8,5 +8,5 @@
 Desktop.ini
 Thumbs.db
 \#*\#
-platforms/*
-plugins/*
+*/platforms/*
+*/plugins/*
