@@ -1,12 +1,15 @@
-# leaflet.js with Apache Cordova
+leaflet.js with Apache Cordova
+==============================
 
-## build
+build
+-----
 
-  $ cordova platform add android
-  $ cordova build
-  $ cordova emulate android
+    $ cordova platform add android
+    $ cordova build
+    $ cordova emulate android
 
-## License
+License
+-------
 
 Public domain
 exclude libraries (leaflet.js, jQuery, Bootstrap, Cordova and other include libraries)
