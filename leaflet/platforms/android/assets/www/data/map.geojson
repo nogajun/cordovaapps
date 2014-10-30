@@ -1,0 +1,1 @@
+{  "type": "FeatureCollection",  "features": [    {      "type": "Feature",      "properties": {        "name": "crossingroad"      },      "geometry": {        "type": "Point",        "coordinates": [          134.69205021858215,          34.8330432380064        ]      }    }  ]}
