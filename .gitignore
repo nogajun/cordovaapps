@@ -1,5 +1,11 @@
 *.bak
+*.class
+*.jar
 *.log
+*.swp
+*.tmp
+*/platforms/*
+*/plugins/*
 *~
 .DS_Store
 .\#*
@@ -8,5 +14,3 @@
 Desktop.ini
 Thumbs.db
 \#*\#
-*/platforms/*
-*/plugins/*
